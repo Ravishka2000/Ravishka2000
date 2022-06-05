@@ -40,6 +40,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishka2000&show_icons=true&locale=en&layout=compact" alt="ravishka2000" />
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravishka2000)  
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravishka2000&show_icons=true&locale=en" alt="ravishka2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishka2000&" alt="ravishka2000" /></p>
