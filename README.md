@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ravishka2000&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravishka2000&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ravishka2000&theme=radical&hide_border=false)<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravishka2000&layout=default&theme=radical&hide_border=false&card_width=330" alt="Ravishka2000"/>
 <br>
 <br/>
