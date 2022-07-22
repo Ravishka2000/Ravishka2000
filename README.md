@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **C, C++, Java, Python**
 
 - 📫 How to reach me **ravishkadulshan1@gmail.com**
 
