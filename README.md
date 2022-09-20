@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ravishka2000" /> </p>
 
-- 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology**
+- 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology** as a second year student.
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything** 
 
 - 📫 How to reach me **ravishkadulshan1@gmail.com**
 
