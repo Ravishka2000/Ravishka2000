@@ -83,14 +83,15 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ravishka2000&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravishka2000&theme=radical&hide_border=false)<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravishka2000&layout=default&theme=radical&hide_border=false&card_width=330" alt="Ravishka2000"/>
-<br>
-<br/>
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ravishka2000&theme=xcode)](https://git.io/ravishka2000)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravishka2000&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ravishka2000&theme=material-palenight"/>
+</a>
 <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ravishka2000&bg_color=ededed&color=1e3076&line=bd0f0f&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
