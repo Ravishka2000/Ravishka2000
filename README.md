@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything** 
 
-- 📫 How to reach me **ravishkadulshan1@gmail.com**
+- 📫 How to reach me **ravishkadulshanranaweera@gmail.com**
 
 <br/>
 
