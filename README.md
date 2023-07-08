@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishka2000&label=Profile%20views&color=0e75b6&style=flat" alt="ravishka2000" /> </p>
 
-- 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology** as a third year student.
+- 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology** as a third year Undergraduate.
 
 - 💬 Ask me about **anything** 
 
@@ -77,14 +77,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <br/>
-
-
-## 🏢 Office:
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
 
 ## 📊 GitHub Stats:
 
